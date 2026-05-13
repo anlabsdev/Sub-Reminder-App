@@ -1,0 +1,206 @@
+Build a modern, responsive marketing website for a mobile app called “SubReminder”.
+
+SubReminder is an Android app that helps users track subscriptions, renewal dates, payments, and reminders so they never miss upcoming charges. The Android app is available now on the Google Play Store. The iOS app is coming soon.
+
+Goal:
+Create a polished marketing website that promotes the app, explains what it does, shows app screenshots, includes a QR code for downloading the Android app, embeds a marketing video, and encourages iOS users to join a coming-soon/waitlist section.
+
+Website Type:
+Single-page landing website with clear sections and smooth scrolling navigation.
+
+Tech Requirements:
+- Use the existing project setup if one exists.
+- If no frontend exists, create the website using React + Vite or Next.js.
+- Use clean, maintainable components.
+- Use responsive CSS/Tailwind if available.
+- Make the website fully responsive for mobile, tablet, and desktop.
+- Optimize for fast loading, SEO, and accessibility.
+- Use semantic HTML.
+- Add meaningful alt text for images.
+- Avoid fake app-store links except placeholders.
+- Use placeholders for assets I will add later.
+
+Brand Direction:
+- App name: SubReminder
+- Tone: clean, trustworthy, modern, helpful
+- Audience: people who use many subscriptions and want to avoid missed renewals or surprise charges
+- Visual style: modern SaaS/mobile-app landing page, not too playful, not too corporate
+- Suggested colors: deep blue, green, white, soft gray, with subtle accent colors
+- Design should feel premium and simple
+
+Assets:
+Create an assets structure and use placeholders for:
+- App logo: /assets/logo.png
+- Hero app screenshot: /assets/screenshots/hero-phone.png
+- Screenshot gallery:
+  - /assets/screenshots/dashboard.png
+  - /assets/screenshots/add-subscription.png
+  - /assets/screenshots/reminders.png
+  - /assets/screenshots/calendar.png
+- QR code image: /assets/qr/play-store-qr.png
+- Marketing video: /assets/video/subreminder-demo.mp4
+- Optional poster image: /assets/video/video-poster.png
+
+Important:
+Use placeholder images or styled placeholder boxes if the actual files are missing, but structure the code so I can easily replace them later.
+
+Website Sections:
+
+1. Header / Navigation
+- Sticky header
+- Logo and app name “SubReminder”
+- Nav links:
+  - Features
+  - Screenshots
+  - Video
+  - Download
+  - iOS Coming Soon
+- Primary CTA button: “Download for Android”
+
+2. Hero Section
+- Big headline:
+  “Never Miss a Subscription Renewal Again”
+- Supporting text:
+  “SubReminder helps you track subscriptions, payment dates, renewal reminders, and upcoming charges in one simple app.”
+- CTA buttons:
+  - “Download on Google Play”
+  - “Watch Demo”
+- Show a large phone mockup or app screenshot on the right side.
+- Include a small badge or text:
+  “Available now on Android”
+  “iOS coming soon”
+
+3. Problem Section
+Explain the problem:
+- People forget subscriptions
+- Unexpected renewals cost money
+- Tracking payments manually is difficult
+- SubReminder keeps everything organized
+
+Use 3 or 4 clean cards with icons.
+
+4. Features Section
+Create feature cards for:
+- Track all subscriptions in one place
+- Get reminders before renewal dates
+- View upcoming payments
+- Organize monthly and yearly subscriptions
+- Add custom subscription details
+- Simple dashboard for quick overview
+
+Each feature should have an icon, title, and short description.
+
+5. App Screenshot Gallery
+- Display app screenshots in a clean horizontal or grid layout.
+- Screenshots should look like phone screens.
+- Add captions:
+  - Dashboard overview
+  - Add subscription
+  - Renewal reminders
+  - Calendar/payment view
+- Make gallery responsive.
+
+6. Marketing Video Section
+- Embed the marketing video from /assets/video/subreminder-demo.mp4
+- Add heading:
+  “See SubReminder in Action”
+- Add short text explaining that the video shows how to add subscriptions and manage reminders.
+- Video should have controls, poster image if available, and responsive sizing.
+
+7. Download / QR Code Section
+- Main heading:
+  “Download SubReminder for Android”
+- Show Google Play CTA button.
+- Show QR code image so users can scan and download.
+- Text:
+  “Scan the QR code with your phone to download SubReminder from the Google Play Store.”
+- Use placeholder Play Store URL:
+  PLAY_STORE_URL = "https://play.google.com/store/apps/details?id=YOUR_APP_PACKAGE"
+- Make it easy to update this URL in one config file or constant.
+
+8. iOS Coming Soon Section
+- Heading:
+  “iOS App Coming Soon”
+- Text:
+  “We’re working on the iOS version of SubReminder. Stay tuned for updates.”
+- Add optional email waitlist form UI:
+  - Email input
+  - “Notify Me” button
+- If backend is not available, make the form show a simple success message on submit without actually sending data.
+- Include note:
+  “No spam. Just launch updates.”
+
+9. Trust / Benefits Section
+Include benefit-focused content:
+- Save money by avoiding forgotten renewals
+- Stay organized
+- Plan monthly expenses better
+- Get peace of mind
+
+10. FAQ Section
+Add FAQ accordion or simple FAQ list:
+- What is SubReminder?
+- Is SubReminder available on Android?
+- Is iOS available?
+- Can I track monthly and yearly subscriptions?
+- Does the app remind me before renewal dates?
+- Is the app free?
+
+11. Footer
+- Logo and app name
+- Short description
+- Links:
+  - Privacy Policy
+  - Terms
+  - Contact
+- Social placeholders if needed
+- Copyright:
+  “© 2026 SubReminder. All rights reserved.”
+
+Content Requirements:
+Use polished marketing copy. Fix grammar and spelling. Keep text concise and clear.
+
+SEO Requirements:
+- Page title: “SubReminder - Subscription Reminder App”
+- Meta description:
+  “Download SubReminder for Android and track subscriptions, renewal dates, payments, and reminders in one simple app. iOS coming soon.”
+- Add Open Graph tags if using Next.js or HTML head.
+- Use proper heading hierarchy.
+
+Accessibility:
+- Buttons must be keyboard accessible.
+- Images need alt text.
+- Use good color contrast.
+- Video should have a clear label/title.
+
+Responsive Requirements:
+- Mobile-first layout.
+- Hero stacks nicely on mobile.
+- QR code and CTA section must look good on phones.
+- Screenshots should scroll horizontally or become a single-column layout on small screens.
+
+Code Quality:
+- Create reusable components:
+  - Header
+  - Hero
+  - FeatureCard
+  - ScreenshotGallery
+  - VideoSection
+  - DownloadSection
+  - IOSComingSoon
+  - FAQ
+  - Footer
+- Keep constants like app name, Play Store URL, and asset paths in one config file.
+- Add comments only where helpful.
+- Make the code easy for me to update later.
+
+Final Output:
+- Implement the full website.
+- Add placeholder assets or fallback UI where assets are missing.
+- Start the dev server and provide the local URL.
+- Tell me exactly where to replace:
+  - Play Store URL
+  - QR code image
+  - App screenshots
+  - Marketing video
+  - Logo

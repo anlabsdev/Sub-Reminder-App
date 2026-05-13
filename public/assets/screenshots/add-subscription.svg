@@ -1,0 +1,19 @@
+<svg width="360" height="720" viewBox="0 0 360 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Add subscription placeholder">
+  <rect width="360" height="720" rx="42" fill="#101817"/>
+  <rect x="20" y="20" width="320" height="680" rx="30" fill="#F7FAF6"/>
+  <text x="42" y="84" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="800">Add subscription</text>
+  <rect x="42" y="120" width="276" height="58" rx="14" fill="#FFFFFF"/>
+  <text x="60" y="155" fill="#687B76" font-family="Manrope, Arial, sans-serif" font-size="14">Service name</text>
+  <rect x="42" y="196" width="276" height="58" rx="14" fill="#FFFFFF"/>
+  <text x="60" y="231" fill="#687B76" font-family="Manrope, Arial, sans-serif" font-size="14">Price and currency</text>
+  <rect x="42" y="272" width="128" height="58" rx="14" fill="#EAF3EE"/>
+  <text x="64" y="307" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="14" font-weight="800">Monthly</text>
+  <rect x="190" y="272" width="128" height="58" rx="14" fill="#FFFFFF"/>
+  <text x="218" y="307" fill="#687B76" font-family="Manrope, Arial, sans-serif" font-size="14">Yearly</text>
+  <rect x="42" y="360" width="276" height="126" rx="18" fill="#FFFFFF"/>
+  <text x="60" y="397" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="15" font-weight="800">Reminder</text>
+  <text x="60" y="430" fill="#687B76" font-family="Manrope, Arial, sans-serif" font-size="14">3 days before renewal</text>
+  <text x="60" y="461" fill="#687B76" font-family="Manrope, Arial, sans-serif" font-size="14">Notify at 9:00 AM</text>
+  <rect x="42" y="560" width="276" height="58" rx="18" fill="#0D3433"/>
+  <text x="117" y="596" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="15" font-weight="800">Save subscription</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="360" height="720" viewBox="0 0 360 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dashboard overview placeholder">
+  <rect width="360" height="720" rx="42" fill="#101817"/>
+  <rect x="20" y="20" width="320" height="680" rx="30" fill="#F7FAF6"/>
+  <text x="42" y="84" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="23" font-weight="800">Dashboard</text>
+  <rect x="42" y="116" width="276" height="132" rx="20" fill="#0D3433"/>
+  <text x="62" y="154" fill="#BFE7C4" font-family="Manrope, Arial, sans-serif" font-size="14" font-weight="700">Monthly total</text>
+  <text x="62" y="206" fill="#FFFFFF" font-family="Georgia, serif" font-size="42" font-weight="800">$82.45</text>
+  <rect x="42" y="280" width="82" height="108" rx="16" fill="#FFFFFF"/>
+  <rect x="139" y="280" width="82" height="108" rx="16" fill="#FFFFFF"/>
+  <rect x="236" y="280" width="82" height="108" rx="16" fill="#FFFFFF"/>
+  <text x="64" y="339" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="25" font-weight="800">12</text>
+  <text x="154" y="339" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="25" font-weight="800">6</text>
+  <text x="256" y="339" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="25" font-weight="800">3</text>
+  <text x="42" y="438" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="18" font-weight="800">Upcoming</text>
+  <rect x="42" y="462" width="276" height="62" rx="16" fill="#FFFFFF"/>
+  <rect x="42" y="540" width="276" height="62" rx="16" fill="#FFFFFF"/>
+  <circle cx="75" cy="493" r="15" fill="#E53B3B"/>
+  <circle cx="75" cy="571" r="15" fill="#2D74FF"/>
+  <text x="103" y="497" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="15" font-weight="800">Netflix</text>
+  <text x="103" y="575" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="15" font-weight="800">Google One</text>
+</svg>

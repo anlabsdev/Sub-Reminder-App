@@ -1,0 +1,14 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SubReminder demo video poster">
+  <rect width="1280" height="720" fill="#0D3433"/>
+  <path d="M0 520C180 460 270 470 420 520C570 570 700 610 900 520C1060 448 1160 450 1280 494V720H0V520Z" fill="#123F3D"/>
+  <rect x="118" y="96" width="382" height="528" rx="44" fill="#F7FAF6"/>
+  <rect x="150" y="132" width="318" height="76" rx="20" fill="#DDE8E3"/>
+  <rect x="150" y="240" width="318" height="144" rx="26" fill="#0D3433"/>
+  <rect x="150" y="424" width="318" height="62" rx="18" fill="#FFFFFF"/>
+  <rect x="150" y="512" width="318" height="62" rx="18" fill="#FFFFFF"/>
+  <text x="580" y="258" fill="#BFE7C4" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="800">SubReminder demo</text>
+  <text x="580" y="334" fill="#FFFFFF" font-family="Georgia, serif" font-size="62" font-weight="800">Track renewals before they charge.</text>
+  <text x="582" y="392" fill="#D8EFE0" font-family="Manrope, Arial, sans-serif" font-size="24">Add subscriptions, set reminders, and review upcoming payments.</text>
+  <circle cx="922" cy="512" r="72" fill="#8FE3A2"/>
+  <path d="M900 474L900 550L960 512L900 474Z" fill="#0D3433"/>
+</svg>

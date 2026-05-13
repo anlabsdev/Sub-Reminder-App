@@ -1,0 +1,33 @@
+<svg width="560" height="760" viewBox="0 0 560 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SubReminder app dashboard mockup">
+  <rect width="560" height="760" rx="48" fill="#111918"/>
+  <rect x="28" y="28" width="504" height="704" rx="36" fill="#F7FAF6"/>
+  <rect x="76" y="58" width="408" height="26" rx="13" fill="#DDE8E3"/>
+  <text x="64" y="138" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="800">Good evening</text>
+  <text x="64" y="174" fill="#58706B" font-family="Manrope, Arial, sans-serif" font-size="18">Your upcoming subscriptions</text>
+  <rect x="64" y="212" width="432" height="164" rx="24" fill="#0D3433"/>
+  <text x="92" y="262" fill="#BFE7C4" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="700">This month</text>
+  <text x="92" y="320" fill="#FFFFFF" font-family="Fraunces, Georgia, serif" font-size="56" font-weight="800">$82.45</text>
+  <text x="92" y="350" fill="#D8EFE0" font-family="Manrope, Arial, sans-serif" font-size="16">6 renewals scheduled</text>
+  <circle cx="430" cy="296" r="42" fill="#8FE3A2"/>
+  <path d="M412 297l13 13 27-31" stroke="#0D3433" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="426" fill="#0D3433" font-family="Manrope, Arial, sans-serif" font-size="20" font-weight="800">Next renewals</text>
+  <g>
+    <rect x="64" y="454" width="432" height="74" rx="18" fill="#FFFFFF"/>
+    <circle cx="102" cy="491" r="20" fill="#E53B3B"/>
+    <text x="138" y="486" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="800">Netflix</text>
+    <text x="138" y="511" fill="#6A7D78" font-family="Manrope, Arial, sans-serif" font-size="14">Renews tomorrow</text>
+    <text x="426" y="499" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="800">$15.99</text>
+  </g>
+  <g>
+    <rect x="64" y="544" width="432" height="74" rx="18" fill="#FFFFFF"/>
+    <circle cx="102" cy="581" r="20" fill="#151B2F"/>
+    <text x="138" y="576" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="800">Claude</text>
+    <text x="138" y="601" fill="#6A7D78" font-family="Manrope, Arial, sans-serif" font-size="14">In 4 days</text>
+    <text x="426" y="589" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="800">$20.00</text>
+  </g>
+  <g>
+    <rect x="64" y="634" width="432" height="54" rx="18" fill="#EAF3EE"/>
+    <circle cx="102" cy="661" r="16" fill="#2D74FF"/>
+    <text x="138" y="667" fill="#162421" font-family="Manrope, Arial, sans-serif" font-size="16" font-weight="800">Spotify renews next week</text>
+  </g>
+</svg>
